@@ -1,6 +1,6 @@
 Power to the LLM Site
 
-A data maping project site built around making LLM utiliation in AI/ML workflows easy full repo located Here.
+A data mapping project website dedicated to simplifying the integration of LLM (Language Model) utilization into AI/ML workflows
 
 Live Site-
 
